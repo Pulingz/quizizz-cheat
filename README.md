@@ -15,7 +15,7 @@ It should work in Test and Classic mode.
 1. Join Quiz
 2. Open console and paste this
 ```ts
-fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/master/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/Pulingz/quizizz-cheat/master/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
@@ -28,7 +28,7 @@ An alternative method is more invasive. Instead of fetching Quizizz API, it send
 1. Join quiz, wait for first question, and open console
 2. Paste this code to the console
 ```ts
-fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/Pulingz/quizizz-cheat/oldmethod/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
