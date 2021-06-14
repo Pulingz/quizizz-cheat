@@ -2,12 +2,6 @@
 
 There are two methods for retrieving answers.
 
-1. [Fetching Quizizz API](#fetching-quizizz-api)
-2. [Sending answers as someone else](#sending-answers-as-someone-else) (old method)
-
-You can load this script automatically using a browser extension.
-- [Using Tampermonkey](#load-automatically-using-tampermonkey)
-
 # Methods
 ## Fetching Quizizz API
 
